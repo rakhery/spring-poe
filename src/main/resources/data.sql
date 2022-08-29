@@ -1,0 +1,1 @@
+INSERT INTO `utilisateurs` (`id`, `lastname`, `firstname`) VALUES (1, 'John', 'Travolta' ), (2, 'Elon', 'Musk')
