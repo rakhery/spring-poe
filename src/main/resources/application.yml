@@ -13,3 +13,7 @@ spring:
         format_sql: true
   profiles:
     active: prod
+#  mvc:
+#    view:
+#      prefix: /WEB-INF/view/
+#      suffix: .jsp
