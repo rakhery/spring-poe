@@ -11,11 +11,11 @@
         <table>
             <tr>
                 <td><form:label path="id">Id</form:label></td>
-                <td><form:input path="id"></form:input></td>
+                <td><form:input path="id" type="number" ></form:input></td>
             </tr>
             <tr>
                 <td><form:label path="age">Age</form:label></td>
-                <td><form:input path="age"></form:input></td>
+                <td><form:input path="age" type="number"></form:input></td>
             </tr>
             <tr>
                 <td><form:label path="name">Name</form:label></td>
